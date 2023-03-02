@@ -1,0 +1,1 @@
+gcc main_hamilton.c transfer_matrix_hamilton.c matrix_hamilton.c -o main
